@@ -11,7 +11,7 @@ import MainLayout        from './components/layout/MainLayout';
 import LoginPage         from './pages/loginPage';
 import FeedPage          from './pages/feedPage';
 import ExplorePage       from './pages/explorePage';
-import ProfilePage       from './pages/ProfilePage';
+import ProfilePage       from './pages/profilePage';
 import RoomsPage         from './pages/rooms';
 import GroupsPage        from './pages/groupsPage';
 import ChannelsPage      from './pages/channels';
