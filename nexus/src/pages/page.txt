@@ -1,0 +1,8 @@
+explore
+channels
+groups
+feed
+login
+notification
+profilePage
+rooms
